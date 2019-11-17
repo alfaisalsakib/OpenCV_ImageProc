@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "S:\\AndroidStudio\\cameraImageProcess",
+      "sdkFolder": "C:\\Users\\sakib\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "S:\\AndroidStudio\\cameraImageProcess\\app",
+      "makeFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\build\\intermediates\\ndk\\debug\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "S:\\AndroidStudio\\cameraImageProcess\\.cxx",
+      "cxxFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx",
+      "ndkFolder": "S:\\AndroidStudio\\openCv\\android-ndk-r18b",
+      "ndkVersion": "18.1.5063045",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+    "objFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local",
+    "jsonFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release",
+    "gradleBuildOutputFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64",
+  "jsonFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "S:\\AndroidStudio\\cameraImageProcess\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64",
+  "buildCommandFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "S:\\AndroidStudio\\cameraImageProcess\\app\\.cxx\\ndkBuild\\release\\x86_64\\compile_commands.json"
+}
